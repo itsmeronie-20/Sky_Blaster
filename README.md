@@ -1,4 +1,4 @@
-# ✈️ Sky Blaster
+# ✈️ Sky_Blaster
 A simple and responsive browser-based arcade game built with HTML, CSS, and JavaScript.
 
 
