@@ -1,10 +1,10 @@
-#✈️ Sky Blaster
+# ✈️ Sky Blaster
 
 A simple and responsive browser-based arcade game built with HTML, CSS, and JavaScript.
 
 Control your aircraft, destroy enemy aircraft, earn points, and beat your high score.
 
-#🎮 Features
+# 🎮 Features
 
 - Enemy aircraft
 - Shooting system
@@ -16,7 +16,7 @@ Control your aircraft, destroy enemy aircraft, earn points, and beat your high s
 - Mobile-friendly design
 - High score saved with "localStorage"
 
-#🕹️ Controls
+# 🕹️ Controls
 
 PC
 
@@ -31,7 +31,7 @@ Mobile
 
 - Touch and hold the screen to move and shoot.
 
-#📁 Project Structure
+# 📁 Project Structure
 
 Sky-Blaster/
 ├── index.html
@@ -39,13 +39,13 @@ Sky-Blaster/
 ├── main.js
 └── README.md
 
-#File| Description
+# File| Description
 "index.html"| Game structure and interface
 "styles.css"| Game design and responsive layout
 "main.js"| Game logic and controls
 "README.md"| Project documentation
 
-#🚀 How to Run
+# 🚀 How to Run
 
 No installation is required.
 
@@ -54,7 +54,7 @@ No installation is required.
 3. Open "index.html" in your browser.
 4. Click START GAME.
 
-#🛠️ Built With
+# 🛠️ Built With
 
 - HTML5
 - CSS3
@@ -62,7 +62,7 @@ No installation is required.
 - Canvas API
 - Local Storage API
 
-#🎯 How to Play
+# 🎯 How to Play
 
 1. Start the game.
 2. Move your aircraft.
@@ -72,11 +72,11 @@ No installation is required.
 6. Keep playing until you lose all 3 lives.
 7. Try to beat your best score.
 
-#📱 Responsive
+# 📱 Responsive
 
 Sky Blaster supports both desktop and mobile devices with keyboard, mouse, and touch controls.
 
-#🔮 Future Improvements
+# 🔮 Future Improvements
 
 - Sound effects
 - More enemy types
