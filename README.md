@@ -75,13 +75,4 @@ No installation is required.
 # 📱 Responsive
 
 Sky Blaster supports both desktop and mobile devices with keyboard, mouse, and touch controls.
-
-# 🔮 Future Improvements
-
-- Sound effects
-- More enemy types
-- Power-ups
-- Different aircraft
-- New backgrounds
-- Online leaderboard
 ---
