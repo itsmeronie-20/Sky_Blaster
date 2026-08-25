@@ -1,5 +1,5 @@
 # ✈️ Sky Blaster
-
+![image alt](https://github.com/itsmeronie-20/Project-Porfolio/blob/366bfe1a34746ad74d62f510240e1815bf752bf7/p-image/file_1787563154650.png)
 A simple and responsive browser-based arcade game built with HTML, CSS, and JavaScript.
 
 Control your aircraft, destroy enemy aircraft, earn points, and beat your high score.
