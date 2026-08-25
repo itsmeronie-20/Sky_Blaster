@@ -35,7 +35,11 @@ Mobile
 
 # 📁 Project Structure
 
-![image alt](https://github.com/itsmeronie-20/Sky_Blaster/blob/472f0750c16fa2565468d3e25d7528bf6456d65a/img/project_structure.png)
+Sky-Blaster/
+├── index.html
+├── styles.css
+├── main.js
+└── README.md
 
 # File| Description
 "index.html"| Game structure and interface
